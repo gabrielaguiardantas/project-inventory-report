@@ -59,6 +59,6 @@ class SimpleReport(Report):
         ordered_company_name_frequency_list = sorted(
             company_name_frequency_dict.items(),
             reverse=True,
-            key=lambda kv: (kv[1], kv[0]),
+            key=lambda x: x[1],
         )
         return ordered_company_name_frequency_list

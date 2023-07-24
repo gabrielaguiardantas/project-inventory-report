@@ -8,3 +8,4 @@ Trigésimo projeto do curso de desenvolvimento Web da Trybe e segundo do módulo
 
 ## Features implementadas: ##
 
+![Captura de tela de 2023-07-24 15-46-33](https://github.com/gabrielaguiardantas/project-inventory-report/assets/110852595/07e4abf9-6aed-4bea-987a-125c98d7c827)
